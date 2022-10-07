@@ -126,6 +126,9 @@ CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 //Enable/Disable output of compile commands during generation.
 CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=
 
+//Value Computed by CMake.
+CMAKE_FIND_PACKAGE_REDIRECTS_DIR:STATIC=/home/preston/Documents/pico-sdk/CMakeFiles/pkgRedirects
+
 //Install path prefix, prepended onto install directories.
 CMAKE_INSTALL_PREFIX:PATH=/usr/local
 
@@ -347,7 +350,7 @@ CMAKE_CACHEFILE_DIR:INTERNAL=/home/preston/Documents/pico-sdk
 //Major version of cmake used to create the current loaded cache
 CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
-CMAKE_CACHE_MINOR_VERSION:INTERNAL=22
+CMAKE_CACHE_MINOR_VERSION:INTERNAL=24
 //Patch version of cmake used to create the current loaded cache
 CMAKE_CACHE_PATCH_VERSION:INTERNAL=1
 //ADVANCED property for variable: CMAKE_COLOR_MAKEFILE
@@ -448,7 +451,7 @@ CMAKE_RANLIB-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_READELF
 CMAKE_READELF-ADVANCED:INTERNAL=1
 //Path to CMake installation.
-CMAKE_ROOT:INTERNAL=/usr/share/cmake-3.22
+CMAKE_ROOT:INTERNAL=/usr/share/cmake-3.24
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS
 CMAKE_SHARED_LINKER_FLAGS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_SHARED_LINKER_FLAGS_DEBUG
@@ -489,7 +492,7 @@ PICO_BOOT_STAGE2_DIR:INTERNAL=/home/preston/Documents/pico-sdk/src/rp2_common/bo
 PICO_CMAKE_PRELOAD_PLATFORM_DIR:INTERNAL=/home/preston/Documents/pico-sdk/cmake/preload/platforms
 PICO_CMAKE_PRELOAD_PLATFORM_FILE:INTERNAL=/home/preston/Documents/pico-sdk/cmake/preload/platforms/rp2040.cmake
 PICO_COMPILER_ASM:INTERNAL=/usr/bin/arm-none-eabi-gcc
-PICO_DOXYGEN_EXCLUDE_PATHS:INTERNAL= /home/preston/Documents/pico-sdk/src/rp2_common/cmsis /home/preston/Documents/pico-sdk/src/rp2040/hardware_regs
+PICO_DOXYGEN_EXCLUDE_PATHS:INTERNAL= /home/preston/Documents/pico-sdk/src/rp2_common/cmsis /home/preston/Documents/pico-sdk/src/rp2040/hardware_regs /home/preston/Documents/pico-sdk/src/rp2_common/cmsis /home/preston/Documents/pico-sdk/src/rp2040/hardware_regs /home/preston/Documents/pico-sdk/src/rp2_common/cmsis /home/preston/Documents/pico-sdk/src/rp2040/hardware_regs /home/preston/Documents/pico-sdk/src/rp2_common/cmsis /home/preston/Documents/pico-sdk/src/rp2040/hardware_regs /home/preston/Documents/pico-sdk/src/rp2_common/cmsis /home/preston/Documents/pico-sdk/src/rp2040/hardware_regs
 PICO_DOXYGEN_PATHS:INTERNAL= /home/preston/Documents/pico-sdk/src/common /home/preston/Documents/pico-sdk/src/rp2_common /home/preston/Documents/pico-sdk/src/rp2040
 PICO_NO_HARDWARE:INTERNAL=0
 PICO_ON_DEVICE:INTERNAL=1

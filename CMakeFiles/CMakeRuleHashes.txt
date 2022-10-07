@@ -9,6 +9,6 @@ d6199a31d6d2d86b8d95acea4921b4a7 test/pico_stdlib_test/CMakeFiles/ELF2UF2Build
 71b5b5c57645f44c4d3638c777a120c8 test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure
 13dcbfe8e7c8703599f82070b3c69a78 test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download
 f460518fae745e938668a7706495e21c test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install
-134219375b4ce4348d927d396b422d5d test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
+9b7d7496fdf4466cb5612cbced52ed0a test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir
 69b1fd9e04a6fdf1f3d7ce58304e71bf test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch
 18fd98e3bfdb1cf6a9e72546375de1cd test/pico_stdlib_test/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update
